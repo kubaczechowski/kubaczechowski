@@ -2,9 +2,9 @@
 
 I'm Junior Software Developer 
 
-- 🚀 I'm currently working with Java ... and Typescript
+- 🚀 I'm currently working with Java ... and JavaScript / Typescript
 - 🔭 I want to learn more about: Domain Driven Design, TDD
-- ☀️ Frameworks: Spring Boot, Hibernate, Angular
+- ☀️ Frameworks: Spring Boot, Hibernate, Angular / React
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm coffee fanatic & specialty coffee enthusiast
 
