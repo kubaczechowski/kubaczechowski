@@ -1,6 +1,6 @@
 ### Hi, I'm Kuba 👋
 
-I'm Junior Software Developer 
+I'm Computer Science student at PJATK 
 
 - 🚀 I'm currently working with Java ... and JavaScript / Typescript
 - 🔭 I want to learn more about: Domain Driven Design, TDD
